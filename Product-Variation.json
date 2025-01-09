@@ -1,0 +1,767 @@
+{
+  "action": "Product-Variation",
+  "queryString": "pid=CRN4752000&quantity=1",
+  "locale": "en_US",
+  "product": {
+    "uuid": "a53a22a14f9045e1cc4c5e0439",
+    "id": "CRN4752000",
+    "productName": "Cartier Destinée solitaire",
+    "productType": "master",
+    "brand": "cartier",
+    "productDisplayName": "Cartier Destinée solitaire",
+    "price": {
+      "type": "range",
+      "min": {
+        "sales": {
+          "value": 94500,
+          "currency": "USD",
+          "formatted": "$94,500.00",
+          "decimalPrice": "94500.00"
+        },
+        "list": null
+      },
+      "max": {
+        "sales": {
+          "value": 200000,
+          "currency": "USD",
+          "formatted": "$200,000.00",
+          "decimalPrice": "200000.00"
+        },
+        "list": null
+      },
+      "html": "    <div class=\"price\" data-product-component=\"price\" itemprop=\"offers\" itemscope itemtype=\"http://schema.org/AggregateOffer\">\n        <span class=\"range\">\n    \n\n    \n    \n    \n\n\n\n\n\n<meta itemprop=\"priceCurrency\" content=\"USD\" />\n\n    <span class=\"price__sales sales\">\n    \n        <span class=\"value\" itemprop=\"lowprice\" content=\"94500.00\">\n    \n    \n    \n    \n\n\n\n\n    $94,500\n\n\n    </span>\n\n\n\n\n    -\n    \n    \n    \n\n\n\n\n\n<meta itemprop=\"priceCurrency\" content=\"USD\" />\n\n    <span class=\"price__sales sales\">\n    \n    \n        <span class=\"value\" itemprop=\"highprice\" content=\"200000.00\">\n    \n    \n    \n\n\n\n\n    $200,000\n\n\n    </span>\n\n\n\n\n</span>\n\n    </div>\n\n\n"
+    },
+    "sellable": {
+      "web": false,
+      "phone": false
+    },
+    "isLimitedAvailabilityEligible": false,
+    "requestPrice": false,
+    "sellableLabel": "notsellable",
+    "isDiableSizeSelector": true,
+    "images": {
+      "large": [
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83df241c/images/large/36e09a01c7de595ca4ea9e64a6e19f37.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "index": "0",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83df241c/images/large/36e09a01c7de595ca4ea9e64a6e19f37.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/36e09a01c7de595ca4ea9e64a6e19f37.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0b789e76/images/large/0ccc26bcfa845a50866e666e459bd15a.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "index": "1",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0b789e76/images/large/0ccc26bcfa845a50866e666e459bd15a.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/0ccc26bcfa845a50866e666e459bd15a.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw069c466a/images/large/a401aaca991a5281a2674ebefc93f9da.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "index": "2",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw069c466a/images/large/a401aaca991a5281a2674ebefc93f9da.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/a401aaca991a5281a2674ebefc93f9da.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw28a96e85/images/large/5ce274e31ffb50bebbf4ab36efd1ec29.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "index": "3",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw28a96e85/images/large/5ce274e31ffb50bebbf4ab36efd1ec29.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/5ce274e31ffb50bebbf4ab36efd1ec29.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw97510c10/images/large/2ecf08d6011c51788940f9bf951e49b6.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "index": "4",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw97510c10/images/large/2ecf08d6011c51788940f9bf951e49b6.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/2ecf08d6011c51788940f9bf951e49b6.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd960cc0d/images/large/e6f1981b9dd45fa28729359074bb9b66.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "index": "5",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd960cc0d/images/large/e6f1981b9dd45fa28729359074bb9b66.png?sw=750&sh=750&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/e6f1981b9dd45fa28729359074bb9b66.png"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83df241c/images/large/36e09a01c7de595ca4ea9e64a6e19f37.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "index": "0",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83df241c/images/large/36e09a01c7de595ca4ea9e64a6e19f37.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/36e09a01c7de595ca4ea9e64a6e19f37.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0b789e76/images/large/0ccc26bcfa845a50866e666e459bd15a.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "index": "1",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0b789e76/images/large/0ccc26bcfa845a50866e666e459bd15a.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/0ccc26bcfa845a50866e666e459bd15a.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw069c466a/images/large/a401aaca991a5281a2674ebefc93f9da.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "index": "2",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw069c466a/images/large/a401aaca991a5281a2674ebefc93f9da.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/a401aaca991a5281a2674ebefc93f9da.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw28a96e85/images/large/5ce274e31ffb50bebbf4ab36efd1ec29.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "index": "3",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw28a96e85/images/large/5ce274e31ffb50bebbf4ab36efd1ec29.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/5ce274e31ffb50bebbf4ab36efd1ec29.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw97510c10/images/large/2ecf08d6011c51788940f9bf951e49b6.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "index": "4",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw97510c10/images/large/2ecf08d6011c51788940f9bf951e49b6.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/2ecf08d6011c51788940f9bf951e49b6.png"
+        },
+        {
+          "alt": "Cartier Destinée solitaire",
+          "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd960cc0d/images/large/e6f1981b9dd45fa28729359074bb9b66.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "index": "5",
+          "title": "Cartier Destinée solitaire",
+          "absURL": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd960cc0d/images/large/e6f1981b9dd45fa28729359074bb9b66.png?sw=250&sh=250&sm=fit&sfrm=png",
+          "hasImage": true,
+          "hasBackground": true,
+          "isWornImage": false,
+          "hide": false,
+          "imagePath": "/images/large/e6f1981b9dd45fa28729359074bb9b66.png"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 10,
+    "variationAttributes": [
+      {
+        "attributeId": "size",
+        "displayName": "Size",
+        "id": "size",
+        "swatchable": false,
+        "values": [
+          {
+            "id": "47",
+            "description": null,
+            "displayValue": "47",
+            "value": "47",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 47",
+            "labelSelected": "Size: 47, selected",
+            "labelUnselectable": "Size: 47, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=47&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "48",
+            "description": null,
+            "displayValue": "48",
+            "value": "48",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 48",
+            "labelSelected": "Size: 48, selected",
+            "labelUnselectable": "Size: 48, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=48&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "49",
+            "description": null,
+            "displayValue": "49",
+            "value": "49",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 49",
+            "labelSelected": "Size: 49, selected",
+            "labelUnselectable": "Size: 49, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=49&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "50",
+            "description": null,
+            "displayValue": "50",
+            "value": "50",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 50",
+            "labelSelected": "Size: 50, selected",
+            "labelUnselectable": "Size: 50, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=50&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "51",
+            "description": null,
+            "displayValue": "51",
+            "value": "51",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 51",
+            "labelSelected": "Size: 51, selected",
+            "labelUnselectable": "Size: 51, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=51&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "52",
+            "description": null,
+            "displayValue": "52",
+            "value": "52",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 52",
+            "labelSelected": "Size: 52, selected",
+            "labelUnselectable": "Size: 52, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=52&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "53",
+            "description": null,
+            "displayValue": "53",
+            "value": "53",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 53",
+            "labelSelected": "Size: 53, selected",
+            "labelUnselectable": "Size: 53, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=53&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "54",
+            "description": null,
+            "displayValue": "54",
+            "value": "54",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 54",
+            "labelSelected": "Size: 54, selected",
+            "labelUnselectable": "Size: 54, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=54&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "55",
+            "description": null,
+            "displayValue": "55",
+            "value": "55",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 55",
+            "labelSelected": "Size: 55, selected",
+            "labelUnselectable": "Size: 55, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=55&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "56",
+            "description": null,
+            "displayValue": "56",
+            "value": "56",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 56",
+            "labelSelected": "Size: 56, selected",
+            "labelUnselectable": "Size: 56, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=56&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          },
+          {
+            "id": "57",
+            "description": null,
+            "displayValue": "57",
+            "value": "57",
+            "selected": false,
+            "selectable": false,
+            "labelDefault": "Size: 57",
+            "labelSelected": "Size: 57, selected",
+            "labelUnselectable": "Size: 57, unselectable",
+            "visibleWeb": true,
+            "visiblePhone": true,
+            "isSellableOrNot": false,
+            "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?dwvar_CRN4752000_size=57&pid=CRN4752000&quantity=1",
+            "isBackInStockProduct": false,
+            "isLimitedAvailabilityEligible": false
+          }
+        ],
+        "selectedValue": null
+      }
+    ],
+    "longDescription": "Product Description:\n- Cartier Destinée solitaire\n- Platinum 950/1000\n- Set with a pear-shaped diamond available from 2.00 to 3.99 carats\n- Paved with brilliant-cut diamonds",
+    "shortDescription": "Platinum, diamonds",
+    "truncatedDescription": " Product Description:\n- Cartier Destinée solitaire\n- Platinum 950/1000\n- Set with a pear-shaped",
+    "longDescriptionDisplay": "Product Description:\n<span class=\"bullet-point\"></span>Cartier Destinée solitaire\n<span class=\"bullet-point\"></span>Platinum 950/1000\n<span class=\"bullet-point\"></span>Set with a pear-shaped diamond available from 2.00 to 3.99 carats\n<span class=\"bullet-point\"></span>Paved with brilliant-cut diamonds",
+    "longDisclaimerDisplay": "Please note that the carat weight, number of stones and product dimensions will vary based on the size of the creation you order. For detailed information please contact us.",
+    "enableCollectionDescription": false,
+    "collectionDescription": "Cartier Destinée is enhanced by a halo of diamonds which bestow an exceptional radiance. This collection unfolds in harmonious curves and encapsulates the promise of a lifetime together.",
+    "rating": 5,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "productTechnicalInformation",
+        "name": "Product Technical Information",
+        "attributes": [
+          {
+            "label": "Standardized Material",
+            "value": [
+              "Platinum"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "Unavailable online"
+      ],
+      "totalStock": null,
+      "inStockDate": null
+    },
+    "available": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=5"
+      },
+      {
+        "value": "6",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=6"
+      },
+      {
+        "value": "7",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=7"
+      },
+      {
+        "value": "8",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=8"
+      },
+      {
+        "value": "9",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=9"
+      },
+      {
+        "value": "10",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-CartierUS-Site/en_US/Product-Variation?pid=CRN4752000&quantity=10"
+      }
+    ],
+    "sizeChartId": "jewelry-sizing-guides",
+    "sizeChartURL": {},
+    "selectedProductUrl": "/en-us/jewelry/engagement-rings/cartier-destinee/cartier-destinee-solitaire-CRN4752000.html?%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html=undefined&quantity=1",
+    "readyToOrder": false,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "shareURLs": {
+      "facebook": {
+        "id": "facebook",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?=undefined&u=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+      },
+      "pinterest": {
+        "id": "pinterest",
+        "label": "Pinterest",
+        "url": "https://www.pinterest.com/pin/create/button?=undefined&description=Cartier%20Destin%C3%A9e%20solitaire&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+      },
+      "twitter": {
+        "id": "twitter",
+        "label": "Twitter",
+        "url": "https://twitter.com/intent/tweet?=undefined&text=Cartier%20Destin%C3%A9e%20solitaire&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+      },
+      "line": {
+        "id": "line",
+        "label": "Line",
+        "url": "https://social-plugins.line.me/lineit/share?=undefined&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+      },
+      "email": {
+        "id": "email",
+        "label": "E-Mail",
+        "url": "mailto:?=undefined&body=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html&subject=Cartier%20Destin%C3%A9e%20solitaire"
+      },
+      "whatsapp": {
+        "id": "whatsapp",
+        "label": "Whatsapp",
+        "url": "https://api.whatsapp.com/send?=undefined&text=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+      },
+      "presentationList": [
+        {
+          "id": "facebook",
+          "label": "Facebook",
+          "url": "https://www.facebook.com/sharer/sharer.php?=undefined&u=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+        },
+        {
+          "id": "pinterest",
+          "label": "Pinterest",
+          "url": "https://www.pinterest.com/pin/create/button?=undefined&description=Cartier%20Destin%C3%A9e%20solitaire&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+        },
+        {
+          "id": "twitter",
+          "label": "Twitter",
+          "url": "https://twitter.com/intent/tweet?=undefined&text=Cartier%20Destin%C3%A9e%20solitaire&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+        },
+        {
+          "id": "email",
+          "label": "E-Mail",
+          "url": "mailto:?=undefined&body=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html&subject=Cartier%20Destin%C3%A9e%20solitaire"
+        },
+        {
+          "id": "whatsapp",
+          "label": "Whatsapp",
+          "url": "https://api.whatsapp.com/send?=undefined&text=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fjewelry%2Fengagement-rings%2Fcartier-destinee%2Fcartier-destinee-solitaire-CRN4752000.html"
+        }
+      ]
+    },
+    "lineContactURLs": {
+      "desktop": "https://cartierth",
+      "mobile": "https://cartierthHi%20there"
+    },
+    "pimCategory": {},
+    "pimTopLevelCategory": {},
+    "category": {},
+    "toplevelcategory": {},
+    "aboutCollection": null,
+    "enableWatchUserGuide": false,
+    "aboutCollectionExtended": null,
+    "gtmPushCategory": "Solitaire",
+    "pdpProductContentCommon1": "",
+    "pdpProductContentCommon2": "",
+    "pdpProductContentCommon3": "",
+    "pdpProductContentDiffer": "",
+    "pdpProductWatchSpecifiactions": false,
+    "explicitRecommendations": null,
+    "isEngrav": false,
+    "nrOfChar1Line": 10,
+    "hasEngravOptions": null,
+    "engravedProductType": "",
+    "embossing": false,
+    "hasEmbossOptions": null,
+    "nrOfChar1LineEmbossing": 4,
+    "hasBraceletAdjustmentOptions": null,
+    "wristSizeMin": "14",
+    "wristSizeMax": "14",
+    "isBraceletAdjustable": false,
+    "isEngraved": "NA",
+    "isEmbossed": "NA",
+    "isAdjusted": "NA",
+    "isBraceletAdjusted": "NA",
+    "isPersonalised": "NA",
+    "servicesContent": "product-gift-shipping-services",
+    "USPContent": "global-services-grid",
+    "productVariant": "NA",
+    "crown": "",
+    "back": "",
+    "bracelet": "",
+    "buckle": "PLATINUM9501000",
+    "cites": "",
+    "colorLeatherGoods": "",
+    "colorOfDial": "",
+    "colorOfLenses": "",
+    "dial": "",
+    "diameter": "",
+    "diamondShape": "",
+    "exclusive": "",
+    "finishing": "",
+    "gender": "[Ldw.value.EnumValue;@6b676f24",
+    "glass": "",
+    "glassShape": "",
+    "grossWeight": "",
+    "GTIN": "7613268836217",
+    "hands": "",
+    "height": "65",
+    "interchangableStraps": "",
+    "caseLength": "",
+    "length": "89",
+    "limitedEdition": "false",
+    "launchDate": "",
+    "material2": "",
+    "modelLeatherGoods": "",
+    "movement": "",
+    "movementDetails": "",
+    "movementDimension": "",
+    "netProductWeight": "6.88",
+    "network": "INTERNALANDEXTERNALBOUTIQUES",
+    "powerReserve": "",
+    "rangeStatus": "In range",
+    "scienceOfTheAnimal": "",
+    "segment": "New Jewelry",
+    "setting": "",
+    "strapLength": "",
+    "subCollection": "",
+    "caseThickness": "",
+    "typeOfBracelet": "",
+    "typeOfCarry": "",
+    "watchComplication": "",
+    "watchShape": "",
+    "waterResistance": "",
+    "waterResistanceInBar": "",
+    "caseWidth": "",
+    "Width": "85",
+    "writingMode": "",
+    "size": "",
+    "keyFeatureSection1Desc": "",
+    "keyFeatureSection2Desc": "",
+    "keyFeatureSection3Desc": "",
+    "wbaBackMaterialType": "",
+    "whaHoursShape": "",
+    "whaHoursColor": "",
+    "whaHoursMaterialType": "",
+    "keringManufacturer": "",
+    "keyFeatureSection1Image": "",
+    "keyFeatureSection2Image": "",
+    "keyFeatureSection3Image": "",
+    "specificationSection1Image": "",
+    "specificationSection2Image": "",
+    "specificationSection3Image": "",
+    "specificationSection4Image": "",
+    "specificationSection5Image": "",
+    "specificationSection6Image": "",
+    "metricSizeUnit": "mm",
+    "productcollection": "Cartier Destinée",
+    "reference": "N4752000",
+    "availableForStoreReservation": true,
+    "isCaseProduct": false,
+    "isFragranceRefillProduct": false,
+    "material1": "[Ldw.value.EnumValue;@7fa3bbaf",
+    "productMaterialJewelry": "DIAMOND",
+    "productLine2": "Jewelry",
+    "caseMaterial": "NA",
+    "leatherMaterial": "PLATINUM",
+    "typeOfStrap": "NA",
+    "productLine": "Jewelry",
+    "imagesDisplayConfig": {
+      "configData": [
+        {
+          "imgName": "bbe9cee64cbf54039f39a3fd8e61d790.png",
+          "hasBackground": false,
+          "isWornImage": false
+        },
+        {
+          "imgName": "556d9b28ed5b5e1b92220d4164af9608.png",
+          "hasBackground": false,
+          "isWornImage": false
+        },
+        {
+          "imgName": "74cc5feda4145c2985b77b1271ba4832.png",
+          "hasBackground": false,
+          "isWornImage": false
+        },
+        {
+          "imgName": "1ed994df82af56e8a2c919cb1b0b9ee3.png",
+          "hasBackground": false,
+          "isWornImage": false
+        },
+        {
+          "imgName": "59e92a9e69e65623a5881a3c525fbacb.png",
+          "hasBackground": false,
+          "isWornImage": false
+        },
+        {
+          "imgName": "36e09a01c7de595ca4ea9e64a6e19f37.png",
+          "hasBackground": true,
+          "isWornImage": false
+        },
+        {
+          "imgName": "0ccc26bcfa845a50866e666e459bd15a.png",
+          "hasBackground": true,
+          "isWornImage": false
+        },
+        {
+          "imgName": "a401aaca991a5281a2674ebefc93f9da.png",
+          "hasBackground": true,
+          "isWornImage": false
+        },
+        {
+          "imgName": "5ce274e31ffb50bebbf4ab36efd1ec29.png",
+          "hasBackground": true,
+          "isWornImage": false
+        },
+        {
+          "imgName": "2ecf08d6011c51788940f9bf951e49b6.png",
+          "hasBackground": true,
+          "isWornImage": false
+        },
+        {
+          "imgName": "e6f1981b9dd45fa28729359074bb9b66.png",
+          "hasBackground": true,
+          "isWornImage": false
+        }
+      ],
+      "hasBackgroundImage": true
+    },
+    "novelties": "NA",
+    "is3DProduct": true,
+    "includedStraps": [],
+    "hasStrapOptions": false,
+    "defaultStrapOption": "",
+    "defaultStrapColorId": "",
+    "iframe3DURL": "webgl.cartier.com/autoiFrame/redirectPage.html?vto=true&country=US&pId=N4752000",
+    "iframe3DURLMercury": "webgl.cartier.com/autoiFrame/redirectPage.html?pId=N4752000",
+    "tileIframe3DURL": "webgl.cartier.com/autoiFrame/redirectPage.html?strapId=&pId=N4752000",
+    "hasAdditionalStraps": false,
+    "additionalStraps": {},
+    "strapMaterialKey": null,
+    "strapMaterialText": null,
+    "additionStrapText": null,
+    "isPersonalisationEnabled": false,
+    "inRiverCategory": {
+      "0": {},
+      "1": {}
+    },
+    "availableForInStorePickup": true,
+    "storePickupReady": false,
+    "storePickupEnabled": true,
+    "visible": {
+      "web": true,
+      "phone": true
+    },
+    "unavailable": true,
+    "attributesHtml": "    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    Product Technical Information\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Standardized Material:\n                            \n                                Platinum\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "",
+    "optionsHtml": "<div data-status-message=\"product-strap-status-message\" class=\"hidden\" >\n    <div class=\"status-message status-message--unavailable\">\n        This strap is currently unavailable, please select another strap or call us to pre-order it\n    </div>\n</div>",
+    "inWishlist": false
+  },
+  "resources": {
+    "info_selectforstock": "Select Styles for Availability",
+    "assistiveSelectedText": "selected"
+  }
+}
